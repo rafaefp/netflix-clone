@@ -1,0 +1,1 @@
+Projeto para recriação da interface inicial do Netflix utilizando tecnologias simples como HTML5, CSS3 e JavaScript. No projeto foram utilizados: estruturação de layout, técnicas de CSS3 com containers e variáveis, posicionamento de elementos com Flexbox e utilização de de plugins Jquery.
